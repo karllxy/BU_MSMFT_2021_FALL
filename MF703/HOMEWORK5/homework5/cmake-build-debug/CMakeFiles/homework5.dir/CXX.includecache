@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuxuyang/Desktop/BU FALL 2021/MF703/HOMEWORK5/homework5/homework5.cpp
+iostream
+-
+cmath
+-
+
